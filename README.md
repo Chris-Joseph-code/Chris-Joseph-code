@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Chris-Joseph-code
+- 👀 I’m interested in the Develop Web and the design graphic
+- 🌱 I’m currently learning somethings tecnologies like Vue, vue-native
+- 💞️ I’m looking to collaborate on a radio online
